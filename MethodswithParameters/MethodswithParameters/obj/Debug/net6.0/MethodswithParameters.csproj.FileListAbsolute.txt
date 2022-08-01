@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\bin\Debug\net6.0\MethodswithParameters.exe
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\bin\Debug\net6.0\MethodswithParameters.deps.json
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\bin\Debug\net6.0\MethodswithParameters.runtimeconfig.json
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\bin\Debug\net6.0\MethodswithParameters.dll
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\bin\Debug\net6.0\MethodswithParameters.pdb
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\obj\Debug\net6.0\MethodswithParameters.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\obj\Debug\net6.0\MethodswithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\obj\Debug\net6.0\MethodswithParameters.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\obj\Debug\net6.0\MethodswithParameters.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\obj\Debug\net6.0\MethodswithParameters.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\obj\Debug\net6.0\MethodswithParameters.dll
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\obj\Debug\net6.0\refint\MethodswithParameters.dll
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\obj\Debug\net6.0\MethodswithParameters.pdb
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\obj\Debug\net6.0\MethodswithParameters.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\MethodswithParameters\MethodswithParameters\obj\Debug\net6.0\ref\MethodswithParameters.dll
